@@ -7,7 +7,6 @@
 //
 
 #import "PasswordDemoAppDelegate.h"
-//#import "CustomFormatter.h"
 #import "Point.h"
 #include <stdlib.h>
 
