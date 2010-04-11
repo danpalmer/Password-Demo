@@ -1,0 +1,21 @@
+This is a demo for a type of password that is very resistant to hacking.
+
+The code is Objective-C for Mac OS X. It requires 10.5 (Leopard) or 
+above and should be compiled using Xcode with the Xcode project file 
+included.
+
+I do not take credit for the concept, however if you use any of this code
+in your own projects please credit me. If you use the code or the concept
+in any projects, I would really appreciate it if you could email me to let
+me know as I am keen on following the use of this type of password.
+
+Author: Dan Palmer
+Email: dan.palmer@me.com
+
+TODO
+====
+
+ - Add the ability to change the password pattern.
+
+ - Create a Mac OS security plugin to allow users to have this as their
+   password authentication on their system.
